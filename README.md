@@ -1,8 +1,27 @@
-# React + Vite
+# Asset Management Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple online blog project with the following features:
 
-Currently, two official plugins are available:
+1. **Create Asset By HR:**
+   - Add new Assets to the Database with details like name, price, and category.
+     
+2. **Create Employee By HR:**
+   - Add new Employees to the Database with details and names.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+3. **HR can See Custom Request & Request Send By Employee:**
+   - Employees can send a request for an asset, which HR is added.
+   - Employees also can send a custom request for the asset.
+
+4. **Employee Request Status:**
+   - Employee can see the status of a request sent by him.
+
+5. **Payment :**
+   - Hr must complete his payment
+
+6. **Delete from My Employee:**
+   - Hr can remove his employee if he wants.
+
+6. **Log in & Log Out:**
+   -The user Can Login in as Employee or Hr and he can  log out.
+     
+Explore the live demo: [Asset Management Website](https://assetmanaegment.web.app/)
