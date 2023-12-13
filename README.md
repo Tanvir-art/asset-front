@@ -5,7 +5,7 @@
 - Payment Options
 
 
-A simple online blog project with the following features:
+A simple Asset Management project with the following features:
 
 1. **Create Asset By HR:**
    - Add new Assets to the Database with details like name, price, and category.
