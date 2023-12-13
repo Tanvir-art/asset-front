@@ -1,5 +1,10 @@
 # Asset Management Project
 
+## Unique Feature
+- Hr can Filtering his asset list
+- Payment Options
+
+
 A simple online blog project with the following features:
 
 1. **Create Asset By HR:**
